@@ -8,3 +8,4 @@ psycopg2
 PyJWT
 python-jose[cryptography]
 bcrypt
+alembic
